@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">News Reader</string>
+    <string name="news_list_title">Latest News</string>
+    <string name="news_detail_title">News Details</string>
+
+    <string name="back">Back</string>
+    <string name="bookmark">Bookmark</string>
+
+    <string name="news_1_title">Breaking: Market Hits New Highs</string>
+    <string name="news_1_desc">The stock market has reached an all-time high today, with major indexes reporting record-breaking numbers...</string>
+
+    <string name="news_2_title">Tech Giant Releases New Phone</string>
+    <string name="news_2_desc">A major technology company has unveiled its latest smartphone, featuring cutting-edge AI capabilities...</string>
+
+    <string name="news_3_title">Sports Update: Championship Results</string>
+    <string name="news_3_desc">The final match of the championship concluded last night, with an intense battle between the top two teams...</string>
+
+    <string name="news_4_title">Weather Alert: Storm Incoming</string>
+    <string name="news_4_desc">A powerful storm is expected to hit the region tomorrow, bringing heavy rain, strong winds, and potential flooding...</string>
+
+    <string name="news_5_title">AI Breakthrough in Healthcare</string>
+    <string name="news_5_desc">Scientists have developed an advanced AI system capable of detecting diseases at an early stage with high accuracy...</string>
+
+    <string name="news_6_title">Space Mission to Mars Announced</string>
+    <string name="news_6_desc">NASA has officially announced a new manned mission to Mars set for 2030...</string>
+
+    <string name="news_7_title">Electric Cars Overtake Gasoline Sales</string>
+    <string name="news_7_desc">For the first time in history, electric car sales have surpassed gasoline-powered vehicles...</string>
+
+</resources>

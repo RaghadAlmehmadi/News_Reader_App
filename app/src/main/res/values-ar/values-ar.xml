@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">قارئ الأخبار</string>
+    <string name="news_list_title">آخر الأخبار</string>
+    <string name="news_detail_title">تفاصيل الأخبار</string>
+
+    <string name="back">رجوع</string>
+    <string name="bookmark">إضافة للمفضلة</string>
+
+    <string name="news_1_title">عاجل: سوق الأسهم يسجل ارتفاعات قياسية</string>
+    <string name="news_1_desc">وصل سوق الأسهم اليوم إلى أعلى مستوياته على الإطلاق، حيث سجلت المؤشرات الرئيسية أرقامًا قياسية جديدة...</string>
+
+    <string name="news_2_title">إطلاق هاتف جديد من شركة تقنية عملاقة</string>
+    <string name="news_2_desc">كشفت شركة تقنية كبرى عن أحدث هواتفها الذكية، والذي يتميز بتقنيات ذكاء اصطناعي متطورة وعمر بطارية أطول...</string>
+
+    <string name="news_3_title">تحديث رياضي: نتائج البطولة</string>
+    <string name="news_3_desc">انتهت المباراة النهائية للبطولة الليلة الماضية، وشهدت مواجهة حماسية بين أقوى فريقين. بعد مباراة مثيرة، فاز الفريق A...</string>
+
+    <string name="news_4_title">تحذير من الطقس: عاصفة قادمة</string>
+    <string name="news_4_desc">من المتوقع أن تضرب عاصفة قوية المنطقة غدًا، مما يجلب أمطارًا غزيرة ورياحًا قوية وخطر حدوث فيضانات...</string>
+
+    <string name="news_5_title">اختراق الذكاء الاصطناعي في الرعاية الصحية</string>
+    <string name="news_5_desc">طور العلماء نظام ذكاء اصطناعي متقدمًا قادرًا على اكتشاف الأمراض في مراحلها المبكرة بدقة عالية...</string>
+
+    <string name="news_6_title">الإعلان عن مهمة فضائية إلى المريخ</string>
+    <string name="news_6_desc">أعلنت وكالة ناسا رسميًا عن مهمة مأهولة جديدة إلى كوكب المريخ مقررة في عام 2030...</string>
+
+    <string name="news_7_title">السيارات الكهربائية تتجاوز مبيعات البنزين</string>
+    <string name="news_7_desc">لأول مرة في التاريخ، تجاوزت مبيعات السيارات الكهربائية مبيعات السيارات التي تعمل بالبنزين...</string>
+
+</resources>
